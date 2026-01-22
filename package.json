@@ -2,16 +2,16 @@
   "name": "firstlab",
   "version": "1.0.0",
   "description": "Lab 1 of scripting languages",
-  "homepage": "https://github.com/KhakhudaGIT/FirstLab#readme",
+  "homepage": "https://github.com/Andrejsiv/firstLab#readme",
   "bugs": {
-    "url": "https://github.com/KhakhudaGIT/FirstLab/issues"
+    "url": "https://github.com/Andrejsiv/firstLab/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KhakhudaGIT/FirstLab.git"
+    "url": "git+https://github.com/Andrejsiv/firstLab"
   },
   "license": "ISC",
-  "author": "Valentyn Khakhuda",
+  "author": "Sivoraksha Andriy",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
