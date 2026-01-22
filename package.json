@@ -1,0 +1,29 @@
+{
+  "name": "firstlab",
+  "version": "1.0.0",
+  "description": "Lab 1 of scripting languages",
+  "homepage": "https://github.com/KhakhudaGIT/FirstLab#readme",
+  "bugs": {
+    "url": "https://github.com/KhakhudaGIT/FirstLab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhakhudaGIT/FirstLab.git"
+  },
+  "license": "ISC",
+  "author": "Valentyn Khakhuda",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "7.1.4"
+  }
+}
